@@ -1,0 +1,23 @@
+{
+  "name": "knex-seeds",
+  "version": "1.0.0",
+  "description": "A file to create seed data with Knex.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindlymatt/knex-seeds.git"
+  },
+  "author": "mcsl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindlymatt/knex-seeds/issues"
+  },
+  "homepage": "https://github.com/lindlymatt/knex-seeds#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "pg": "^6.1.0"
+  }
+}
