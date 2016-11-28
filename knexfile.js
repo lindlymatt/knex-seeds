@@ -3,6 +3,6 @@
 module.exports = {
   development: {
     client: 'pg', // uses PostgreSQL
-    connection: 'postgres://localhost/trail_conditions' // where we connect
+    connection: 'postgres://localhost/concert_info' // where we connect
   }
 }
